@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "F:/Diskup/Desktop/py/arduino/pingmu/lib/lvgl",
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
